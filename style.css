@@ -32,13 +32,13 @@ li input{
     margin: 0;
 }
 
-#input-task {
+#input-todo {
     width: 100%;
     border: none;
     border-bottom: 2px solid cornflowerblue;
 }
 
-#add-task-button {
+#add-todo-button {
     min-width: max-content;
     background-color: cornflowerblue;
     color: white;
