@@ -1,4 +1,4 @@
-# ScoreKeeper App
+# ToDo App
 
 ## Table of Contents
 * [General Info](#general-information)
