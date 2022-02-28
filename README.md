@@ -27,7 +27,7 @@ List the ready features here:
 - Marks task as done
 
 ## Screenshots
- ![alt text](./img/screenShot.png)
+ ![alt text](./img/screenshot.png)
  
 ## Setup
 To run this project copy repository and open index.html
